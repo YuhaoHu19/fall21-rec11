@@ -2,5 +2,5 @@
 **Fork** this repository to use for practicing Github flow.
 
 # Attendance
-yuhao2@andrew.cmu.edu
+yu2@andrew.cmu.edu
 
